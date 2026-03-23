@@ -1,3 +1,7 @@
+title: "Joelyn Götz Web-Site"
+description: "Medien-Suche mit APIs"
+giphy_key: "r5SYXwW43V5qBpSe0zz72fqkGKiSPcPD"
+apileague_key: "7f1664d2602540dc8a97c3e9f22b03f7"
 source              : .
 destination         : ./_site
 collections_dir     : .
